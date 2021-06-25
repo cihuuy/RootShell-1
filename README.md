@@ -19,3 +19,8 @@ Bypass root with the command 'sudo' and others simples..
 #### Test with module simple
   The parameter '-u' for set user and '-m' for set module 
 ![rootshell_3](https://raw.githubusercontent.com/mrx04programmer/myimages/main/rootshell_3.png)
+
+
+### Install
+###### simply in the file with the name 'install':
+      $ ./install    
