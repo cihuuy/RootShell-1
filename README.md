@@ -17,7 +17,7 @@ Bypass root with the command 'sudo' and others simples..
      $ rootshell -b <info> 
 ![rootshell_2](https://raw.githubusercontent.com/mrx04programmer/myimages/main/rootshell_2.png)
 #### Test with module simple
-  The parameter '-u' for set user and '-m' for set module 
+##### The parameter '-u' for set user and '-m' for set module 
 ![rootshell_3](https://raw.githubusercontent.com/mrx04programmer/myimages/main/rootshell_3.png)
 
 
