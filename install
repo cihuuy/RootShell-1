@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Installing..."
+sudo cp * /home/mrx/Escritorio && sudo cp .* /home/mrx/Escritorio
