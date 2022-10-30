@@ -52,5 +52,4 @@ if parse.module:
 		try:
 			os.system("ls -la /*/* | grep '"+parse.user+"'")
 		except TypeError:
-			print(f"{R}- {W}Missing set a user with '-u'")
-		
+			print(R+"- "+W+"Missing set a user with -u")
