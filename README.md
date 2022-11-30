@@ -24,3 +24,7 @@ Bypass root with the command 'sudo' and others simples..
 ### Install
 ###### simply in the file with the name 'install':
       $ sudo ./install    
+### UAC
+     $ sudo -sH
+     $ passwd root
+     
